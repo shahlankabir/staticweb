@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'  # Change this to your actual domain later (e.g., https://shahlankabir.github.io/)
+baseURL = 'https://kabirsdomain.netlify.app'  # Change this to your actual domain later (e.g., https://shahlankabir.github.io/)
 title = "Kabir's domain"
 theme = "github-style"
 pygmentsCodeFences = true
@@ -18,7 +18,7 @@ pygmentsUseClasses = true
   headerIcon = "/images/GitHub-Mark-Light-32px.png"
   
   # Search engine optimizations
-  keywords = "blog, portfolio, developer, bangladesh"
+  keywords = "blog, portfolio, bangladesh"
   rss = true
   lastmod = true
 
@@ -34,7 +34,7 @@ pygmentsUseClasses = true
     icon = "/images/cubik.png" 
   [[params.links]]
     title = "YouTube Channel"
-    href = "https://www.youtube.com/channel/UCoDtUongfWNZN1JD_EqOcdQ" # Replace with your actual YouTube handle/URL
+    href = "https://www.youtube.com/@nontproject" # Replace with your actual YouTube handle/URL
     icon = "/images/youtube.png"             # Image file for the YouTube logo
 
 # --- NAVIGATION TABS ---
