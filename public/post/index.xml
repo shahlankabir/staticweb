@@ -1,24 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on Kabir&#39;s domain</title>
-		<link>http://localhost:1313/post/</link>
-		<description>Recent content in Posts on Kabir&#39;s domain</description>
-		<generator>Hugo</generator>
-		<language>en</language>
-		
-		
-		
-		
-			<lastBuildDate>Wed, 03 Jun 2026 12:43:17 +0600</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Beyond the Silos: Why You Should Try a Tiling Window Manager</title>
-				<link>http://localhost:1313/post/usecaseoftillingwm/</link>
-				<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/post/usecaseoftillingwm/</guid>
-				<description>&lt;p&gt;Welcome to the very first post on my multi-disciplinary journey! This blog is a space where I love to connect dots across different fields, but today, we are starting with something foundational to how we interact with technology every single day: &lt;strong&gt;how we organize our digital workspace.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you have ever felt overwhelmed by a chaotic screen full of overlapping apps, or spent way too much time dragging, resizing, and minimizing windows just to see two apps at once, this guide is for you. Let&amp;rsquo;s dive into the world of &lt;strong&gt;Window Managers&lt;/strong&gt; and see how automation can give you your time back.&lt;/p&gt;</description>
-			</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Kabir's domain</title><link>https://kabirsdomain.netlify.app/post/</link><description>Recent content in Posts on Kabir's domain</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 03 Jun 2026 12:43:17 +0600</lastBuildDate><atom:link href="https://kabirsdomain.netlify.app/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Beyond the Silos: Why You Should Try a Tiling Window Manager</title><link>https://kabirsdomain.netlify.app/post/usecaseoftillingwm/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://kabirsdomain.netlify.app/post/usecaseoftillingwm/</guid><description>&lt;p&gt;Welcome to the very first post on my multi-disciplinary journey! This blog is a space where I love to connect dots across different fields, but today, we are starting with something foundational to how we interact with technology every single day: &lt;strong&gt;how we organize our digital workspace.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you have ever felt overwhelmed by a chaotic screen full of overlapping apps, or spent way too much time dragging, resizing, and minimizing windows just to see two apps at once, this guide is for you. Let&amp;rsquo;s dive into the world of &lt;strong&gt;Window Managers&lt;/strong&gt; and see how automation can give you your time back.&lt;/p&gt;</description></item></channel></rss>
