@@ -1,0 +1,12 @@
+/* 1. Clear the default "Organizations" text but keep the heading container intact */
+.user-profile-bio-tabs + div h2.f4.mb-2.text-normal {
+    font-size: 0 !important;
+}
+
+/* 2. Inject the custom "Links" text exactly where the old text used to be */
+.user-profile-bio-tabs + div h2.f4.mb-2.text-normal::before {
+    content: "Links";
+    font-size: 16px !important; /* Restores standard GitHub heading size */
+    color: var(--color-fg-default, #24292f); /* Automatically adapts to dark/light modes */
+    font-weight: 400;
+}

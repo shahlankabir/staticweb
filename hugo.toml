@@ -1,0 +1,59 @@
+baseURL = 'https://example.org/'  # Change this to your actual domain later (e.g., https://shahlankabir.github.io/)
+title = "Kabir's domain"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Kabir"
+  description = "Because one perspective is never enough."
+  github = "shahlankabir"          # Your real GitHub handle
+  email = "shahlankabir@gmail.com" # Your email
+  location = "Bangladesh"          # Your location
+  userStatusEmoji = "😀"
+  
+  # Paths to your profile graphics (Put these inside your `static/images/` folder)
+  avatar = "/images/avatar.png"
+  favicon = "/images/github.png"
+  headerIcon = "/images/GitHub-Mark-Light-32px.png"
+  
+  # Search engine optimizations
+  keywords = "blog, portfolio, developer, bangladesh"
+  rss = true
+  lastmod = true
+
+  # --- CUSTOM UTILITY LINKS ---
+  # These will show up as special link badges on your profile sidebar
+  [[params.links]]
+    title = "ORCID Profile"
+    href = "https://orcid.org/0009-0003-9515-4247"
+    icon = "/images/orcid.png" # You can add an orcid icon to static/images/ if you like
+  [[params.links]]
+    title = "Cubik BD"
+    href = "https://www.cubik.bd"   # Your website link
+    icon = "/images/cubik.png" 
+  [[params.links]]
+    title = "YouTube Channel"
+    href = "https://www.youtube.com/channel/UCoDtUongfWNZN1JD_EqOcdQ" # Replace with your actual YouTube handle/URL
+    icon = "/images/youtube.png"             # Image file for the YouTube logo
+
+# --- NAVIGATION TABS ---
+# This links your single-site homepage and your blog post directory cleanly
+[menu]
+  [[menu.main]]
+    name = "Overview"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Blogs"
+    url = "/post/"
+    weight = 20
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+# --- GOOGLE ANALYTICS ---
+# Replace this placeholder ID with your real Google Analytics measurement ID (G-XXXXXXXXXX)
+[services]
+  [services.googleAnalytics]
+    ID = "G-XXXXXXXXXX"

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kabir&#39;s domain</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Kabir&#39;s domain</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 03 Jun 2026 12:43:17 +0600</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Beyond the Silos: Why You Should Try a Tiling Window Manager</title>
+				<link>http://localhost:1313/post/usecaseoftillingwm/</link>
+				<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/usecaseoftillingwm/</guid>
+				<description>&lt;p&gt;Welcome to the very first post on my multi-disciplinary journey! This blog is a space where I love to connect dots across different fields, but today, we are starting with something foundational to how we interact with technology every single day: &lt;strong&gt;how we organize our digital workspace.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you have ever felt overwhelmed by a chaotic screen full of overlapping apps, or spent way too much time dragging, resizing, and minimizing windows just to see two apps at once, this guide is for you. Let&amp;rsquo;s dive into the world of &lt;strong&gt;Window Managers&lt;/strong&gt; and see how automation can give you your time back.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Readme</title>
+				<link>http://localhost:1313/readme/</link>
+				<pubDate>Tue, 02 Jun 2026 10:43:00 +0600</pubDate>
+				<guid>http://localhost:1313/readme/</guid>
+				<description>&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;&#xA;&lt;p&gt;I am a Civil Engineer with a multi-disciplinary approach to problem-solving. This website serves as a hub for my passion projects, where I explore the intersections of traditional infrastructure design, data science, and advanced spatial technologies.&lt;/p&gt;&#xA;&lt;p&gt;My core areas of focus include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;🏗️ Civil Engineering &amp;amp; Design:&lt;/strong&gt; Structural engineering, building analysis, and interior design.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;📍 Geospatial Analytics:&lt;/strong&gt; Spatial data exploration, geographic correlation, and advanced statistical analysis.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;🛰️ Remote Sensing &amp;amp; Earth Observation:&lt;/strong&gt; Machine learning and deep learning (ML/DL) implementations, automated object detection, and multi-layer raster analysis.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;📊 Data Science &amp;amp; Exploration:&lt;/strong&gt; Detailed Exploratory Data Analysis (EDA) and data-driven insights.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;✍️ Technical Documentation:&lt;/strong&gt; Web blogging, academic article writing, and professional engineering reports.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;⚙️ System Configuration:&lt;/strong&gt; Visual and functional optimization for both Linux and Windows environments.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-education&#34;&gt;🎓 Education&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;🎓 &lt;a href=&#34;https://www.msged.edu.bd/&#34;&gt;Master of Science in GIS for Environment and Development (MSGED)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
